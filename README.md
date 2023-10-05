@@ -14,7 +14,9 @@ What are some limitations of this dataset?
 What are some other possible tables and/or graphs that we could create, and what additional value would they provide?
 
   Creating a new field that measured the active days of a campaign (counting the number of days between the Date Created Conversion and the Date Ending Conversion), and then charting that over the Percent Funded on scatter plot, could give us some insight as to whether   the length of campaign contributes to its success.
+  
   Creating a line chart of the number of each outcome year over year can give us an idea as to whether Crowdfunding strategies are getting better or worse. I could also alert us if there was a particularly good or bad year for crowdfunding, likely as a result of external economic forces.
+  
   Creating a scatter plot that featured average donation over percent funded can reveal what amount is the most successful target donation. You can then filter that by category to see what target donation is best based on the category.
 
 Use your data to determine whether the mean or the median better summarizes the data.
